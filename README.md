@@ -63,7 +63,7 @@ go-user-api/
 ### 2. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/go-user-api.git
+git clone https://github.com/RitikPandey68/go-user-api.git
 cd go-user-api
 go mod tidy
 ```
